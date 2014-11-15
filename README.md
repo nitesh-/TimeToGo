@@ -1,7 +1,7 @@
 Java TimeToGo library
 =====================
 
-Open source time formatting class to convert provided date to 'time to go' format(eg: 1 month to go or 29 days to ago)
+Open source time formatting class that determines time left between the current date and a future date in Human readable format(eg: 1 month to go or 29 days to go)
 
 Usage:
 ------
